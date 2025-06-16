@@ -1,7 +1,7 @@
 # PedalADS - Moving Outdoor Ads in Edinburgh
 
 ## Overview
-PedalADS offers innovative, community-focused LED advertising solutions delivered by bike couriers throughout Edinburgh. Our mobile advertising platform captures attention and delivers measurable results in high-footfall areas.
+Pedal Ads offers innovative, community-focused LED advertising solutions delivered by bike couriers throughout Edinburgh. Our mobile advertising platform captures attention and delivers measurable results in high-footfall areas.
 
 ## Key Features
 - **Targeted Reach**: 85% of digital plays delivered within Edinburgh's city centre
@@ -53,4 +53,4 @@ To complete the setup, you'll need to add these images:
 - [YouTube](https://www.youtube.com/@pedaladsuk)
 
 ## License
-© 2025 PedalADS | Mobile Outdoor Advertising. All Rights Reserved.
+© 2025 Pedal Ads | Mobile Outdoor Advertising. All Rights Reserved.

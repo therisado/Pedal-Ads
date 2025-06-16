@@ -1,0 +1,28 @@
+,,"  AI for Marketing 101
+  Tone of Voice",,,,,
+,,,,,,,
+,1. Brand Archetype Profile,Core Motivation(s),,,2. Brand Personality & Voice,,
+,Prompt: Can you please ask me questions to help me determine which brand archetype fits my business the most? Please wait for my answers to each question and provide multiple-choice answers as much as possible. The output should be your suggestion of brand archetype(s) and its core motivation(s).,,,,"Prompt: Considering this archetype, can you suggest a brand personality and voice based on the four established tone of voice dimensions (Formal vs Casual, Serious vs Funny, Respectiful vs Irrevent, Matter-of-Fact vs Enthusiastic)?",,
+,"The Explorer/Creator Hybrid","Primary: Breaking boundaries in outdoor advertising by bringing dynamic, mobile LED displays to Edinburgh's streets. Secondary: Empowering local businesses to reach their community in an innovative, sustainable way through bike couriers.",,,Dimension,Brand Positioning,Explanation
+,,,,,Formal — Casual,Casual (75%),"PedalAds speaks like a friendly local partner who knows Edinburgh inside out. We use conversational language that reflects the dynamic, street-level nature of our service."
+,,,,,Serious — Funny,Playfully Serious (60% Serious),"While we're serious about delivering results and ROI, we embrace the fun, eye-catching nature of LED bike advertising with energetic language and occasional wordplay around cycling/movement."
+,,,,,Respectful — Irreverent,Respectfully Bold (70% Respectful),"We respect our clients' investment and our riders' hard work, but we're not afraid to challenge traditional advertising norms. We position ourselves as the exciting alternative to static billboards."
+,,,,,Matter-of-Fact — Enthusiastic,Enthusiastic (80%),"We're genuinely excited about bringing ads to life on Edinburgh's streets. Our enthusiasm shows through action-oriented language, movement metaphors, and celebration of the city we serve."
+,,,,,,,
+,3. How This Voice Sounds in Practice,,,,4. Do's and Don'ts,,
+,"Prompt: Taking into account the main four communication goals for this archetype, can you suggest a tone/style and a sample phrase for each?",,,,Prompt: Can you please suggest four do's and don'ts?,,
+,Communication Goal,Example Tone / Style,Sample Phrase,,Do's,,Don'ts
+,Showcase Innovation,Dynamic & Confident,"Your ads on the move! LED displays on courier bikes put your message where Edinburgh lives, works, and plays.",,Use movement and action verbs,Don't compare directly to traditional billboards
+,Build Local Connection,Community-Focused & Proud,"85% of our rides happen in Edinburgh city centre. We know these streets because we ride them every day.",,Emphasize local knowledge and presence,Don't sound like a generic national service
+,Demonstrate Impact,Energetic & Specific,"30,000 daily impressions during peak hours. Your message travels with the heartbeat of Edinburgh.",,Share specific metrics and peak times,Don't use vague reach claims
+,Inspire Action,Urgent & Inviting,"Get your campaign rolling today! Join the brands already turning Edinburgh's streets into their advertising playground.",,Create excitement about joining the movement,Don't pressure with aggressive sales tactics
+,,,,,,,
+,"Good to know: To populate this worksheet in an effective manner and receive your answers in an accessible and shareable format, end your conversation by asking ChatGPT to provide its answers as a one-page brand tone reference sheet.",,,,"Additional Do's:
+• Use cycling and movement metaphors
+• Highlight environmental benefits naturally
+• Celebrate Edinburgh's unique character
+• Include rider perspectives",,"Additional Don'ts:
+• Avoid technical LED specifications
+• Don't oversell the 'green' angle
+• Never disparage traditional advertising
+• Don't ignore weather concerns"

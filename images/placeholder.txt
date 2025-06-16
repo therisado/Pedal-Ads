@@ -1,0 +1,5 @@
+Add your images here:
+- logo.png (company logo)
+- hero-bike.jpg (hero section image)
+
+You can temporarily comment out the img tags in index.html until you add real images.

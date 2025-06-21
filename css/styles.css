@@ -378,7 +378,7 @@ section {
 /* Moving Text Section */
 .moving-text {
     background-color: var(--primary-color);
-    color: var(--dark-color);
+    color: #000000;
     padding: 1.5rem 0;
     overflow: hidden;
     width: 100%;
@@ -714,7 +714,7 @@ section {
 
 .help-cause h2,
 .help-cause p {
-    color: var(--dark-color);
+    color: #000000;
 }
 
 .help-cause p {

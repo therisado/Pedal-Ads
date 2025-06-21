@@ -43,7 +43,7 @@ h3 { font-size: 1.75rem; }
 }
 
 a {
-    color: var(--primary-color);
+    color: #006600;
     text-decoration: none;
     transition: var(--transition);
 }
@@ -371,7 +371,7 @@ section {
 }
 
 .service-item h3 {
-    color: var(--primary-color);
+    color: #006600;
     margin-bottom: 1rem;
 }
 
@@ -664,7 +664,7 @@ section {
 }
 
 .info-item h3 {
-    color: var(--dark-color);
+    color: #000000;
     margin-bottom: 1rem;
 }
 
@@ -681,7 +681,7 @@ section {
     width: 45px;
     height: 45px;
     background-color: var(--primary-color);
-    color: var(--dark-color);
+    color: #000000;
     border-radius: 50%;
     transition: var(--transition);
     text-decoration: none;
